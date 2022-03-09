@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_testupdate.testingabc_user" name="x_snc_testupdate.testingabc_user">88cef6721bc24110f13d96c8274bcb51</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>shailja.panthri@snc</sys_created_by>
+        <sys_created_on>2022-03-09 08:45:21</sys_created_on>
+        <sys_id>50cef6721bc24110f13d96c8274bcb55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>88cef6721bc24110f13d96c8274bcb51</sys_name>
+        <sys_package display_value="TestUpdate" source="x_snc_testupdate">d48e7efe1b824110f13d96c8274bcb72</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestUpdate">d48e7efe1b824110f13d96c8274bcb72</sys_scope>
+        <sys_update_name>sys_embedded_help_role_50cef6721bc24110f13d96c8274bcb55</sys_update_name>
+        <sys_updated_by>shailja.panthri@snc</sys_updated_by>
+        <sys_updated_on>2022-03-09 08:45:21</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
